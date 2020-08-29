@@ -1,2 +1,2 @@
 # Aurelien_Michon
-job_submission_to_reliefapplications
+A beautiful project for a spontaneous candidature to Relief Applications :)
